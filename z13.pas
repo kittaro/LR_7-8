@@ -1,9 +1,5 @@
 program ПОЧЕМУОНОНЕРАБОТАЕТ;
-var
-  str, miss: string;
-  prov: Char;
-  sus: boolean;
-  i: integer;
+var str, miss: string; prov: char; sus: boolean; i: integer;
 
 begin
   writeln('Введите строку: ');
